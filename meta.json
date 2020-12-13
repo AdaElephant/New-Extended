@@ -1,0 +1,60 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://git.io/JIBSH",
+        "url_png_logo": "https://git.io/JIBSr",
+        "location": ", ",
+        "social": {
+            "twitter_handle": "@AdaElephant",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "AdaElephant",
+            "addr": ", ",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "If you're looking for a pool full of purpose this might just be the one for you",
+            "server": "Cloud based, Fully monitored for 24/7 availability",
+            "company": "10% of pool fees donated every month to Elephant Preservation 💙🐘"
+        },
+        "rss": "http(s) url to valid RSS feed"
+    },
+    "my-pool-ids": {
+        "0": "",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
+}
