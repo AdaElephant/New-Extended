@@ -1,10 +1,10 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://git.io/JIBSH",
-        "url_png_logo": "https://git.io/JIBSr",
+        "url_png_icon_64x64": "https://git.io/JLVR6",
+        "url_png_logo": "https://git.io/JLVRl",
         "location": ", ",
         "social": {
-            "twitter_handle": "@AdaElephant",
+            "twitter_handle": "@IrimaPool",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -13,7 +13,7 @@
             "github_handle": ""
         },
         "company": {
-            "name": "AdaElephant",
+            "name": "Irima pool",
             "addr": ", ",
             "city": "",
             "country": "",
@@ -21,9 +21,9 @@
             "vat_id": ""
         },
         "about": {
-            "me": "If you're looking for a pool full of purpose this might just be the one for you",
+            "me": "Cardano",
             "server": "Cloud based, Fully monitored for 24/7 availability",
-            "company": "10% of pool fees donated every month to Elephant Preservation 💙🐘"
+            "company": "Sponsoring Elephants with ADA 🧡🐘"
         },
         "rss": "http(s) url to valid RSS feed"
     },
